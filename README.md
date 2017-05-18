@@ -1,3 +1,7 @@
+# Reason
+
+The reason for this repository is to show a working Angular project (in this case Angular 4) that compiles and runs, but the Angular Language Service extention for Visual Studio Code shows errors when trying to use the `app-testing` component
+
 # SharedModuleTest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
